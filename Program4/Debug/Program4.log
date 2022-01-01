@@ -1,0 +1,17 @@
+﻿  Bird.cpp
+  Bombs.cpp
+  Boom.cpp
+  MyObject.cpp
+  MyObjectList.cpp
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\MyObjectList.cpp(22,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\MyObjectList.cpp(34,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\MyObjectList.cpp(42,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\MyObjectList.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\MyObjectList.cpp(52,29): warning C4018: '<': signed/unsigned mismatch
+  Program4.cpp
+  RedBalloons.cpp
+  YellowBalloons.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Bird.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Program4.vcxproj -> C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Debug\Program4.exe

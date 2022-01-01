@@ -1,0 +1,9 @@
+C:\Users\krahnja\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.vcxproj.AssemblyReference.cache
+C:\Users\krahnja\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.Program4.resources
+C:\Users\krahnja\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.vcxproj.GenerateResource.cache
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.Program4.resources
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.vcxproj.GenerateResource.cache
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Program4\Program4\Program4\Debug\Program4.vcxproj.AssemblyReference.cache
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\Debug\Program4.vcxproj.AssemblyReference.cache
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\Debug\Program4.Program4.resources
+C:\Users\jasmi\OneDrive - University of Wisconsin - Platteville\Year3\Fall 2021\Data Structures\Programs\Program4\Program4\Program4\Debug\Program4.vcxproj.GenerateResource.cache
